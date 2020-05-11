@@ -2,8 +2,6 @@
 #include <stdio.h> 
 
 using namespace std;
-
-// Implementar una función que ordene los elementos de un arreglo: ascendente
  
 void swap(int *xp, int *yp) { 
     int temp = *xp; 
