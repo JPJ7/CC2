@@ -45,11 +45,10 @@ void mergeSort(int arr[], int l, int r){
 	} 
 } 
 
-void printArray(int A[], int size){ 
-	int i; 
-	for (i=0; i < size; i++) 
-		printf("%d ", A[i]); 
-	printf("\n"); 
+void printArray(int arr[], int n) { 
+    int i; 
+    for (i = 0; i < n; i++) 
+        cout<<arr[i]<<" "; 
 } 
 
 int main() 
