@@ -20,7 +20,7 @@ class node{
 };
 
 node::node(){
-    elem=NULL;
+    elem=0;
     next=NULL;
 }
 
