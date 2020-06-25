@@ -12,7 +12,7 @@ class node{
     
 
     public:
-    en elem;
+    gen elem;
     node *next;
 
 
